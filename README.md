@@ -19,8 +19,8 @@ The Question Generator is a web application built with Flask that automates the 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/25-pranav-25/Question-generator.git
+   cd Question-generator
    ```
 
 2. **Install dependencies:**
